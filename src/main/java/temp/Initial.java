@@ -1,4 +1,4 @@
-package Recurrence;
+package temp;
 
 public class Initial {
     //求1到n的和，递归实现

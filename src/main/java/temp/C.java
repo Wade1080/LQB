@@ -1,4 +1,4 @@
-package Recurrence;
+package temp;
 //判断两字符串是否相等，递归实现
 public class C {
     public static boolean f(String s1,String s2){

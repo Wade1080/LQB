@@ -1,4 +1,4 @@
-package Recurrence;
+package temp;
 
 public class B {
     //求a数组中，从begin到结束的元素和
